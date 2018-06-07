@@ -14,7 +14,7 @@
 * Change shape of palette(grid squares) and color of stripes
 * Trying to deploy on subdomain of khairulslt.me (rgbgame.khairulslt.me)
 * But Nginx and Digital Ocean got the better of me :(
-* PS: Anyone with experience deploying HTML/css/JS files on Nginx is welcome to contact me! 
+* PS: Anyone with experience deploying HTML/CSS/JS files on a Nginx subdomain is welcome to contact me! 
 * PS: Would grealy appreciate any help!
 
 ## Built With
