@@ -12,10 +12,11 @@
 ### Improvements
 * Cleaned up code 
 * Change shape of palette(grid squares) and color of stripes
-* Trying to deploy on subdomain of khairulslt.me (rgbgame.khairulslt.me)
-* But Nginx and Digital Ocean got the better of me :(
-* PS: Anyone with experience deploying HTML/CSS/JS files on a Nginx subdomain is welcome to contact me! 
-* PS: Would grealy appreciate any help!
+* <del>Trying to deploy on subdomain of khairulslt.me (rgbgame.khairulslt.me)
+* <del>But Nginx and Digital Ocean got the better of me :(
+* <del>PS: Anyone with experience deploying HTML/CSS/JS files on a Nginx subdomain is welcome to contact me! 
+* <del>PS: Would grealy appreciate any help!
+* Successfully deployed on subdirectory!!! (htttps://www.khairulslt.me/RGBGame)
 
 ## Built With
 
