@@ -16,7 +16,7 @@
 * <del>But Nginx and Digital Ocean got the better of me :(
 * <del>PS: Anyone with experience deploying HTML/CSS/JS files on a Nginx subdomain is welcome to contact me! 
 * <del>PS: Would grealy appreciate any help!
-* Successfully deployed on subdirectory!!! (htttps://www.khairulslt.me/RGBGame)
+* Successfully deployed on subdirectory!!! (https://www.khairulslt.me/RGBGame)
 
 ## Built With
 
