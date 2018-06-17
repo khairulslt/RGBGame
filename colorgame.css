@@ -72,3 +72,18 @@ button:hover{
 	color:white;
 	background: steelblue;
 }
+
+/*Github Link Styling*/
+#icon-container {
+  height: 33px;
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+}
+
+#icons a {
+  font-size: 2.5em;
+  color: #FFF;
+  padding: 18px; 
+}
+/*Github styling ends*/
