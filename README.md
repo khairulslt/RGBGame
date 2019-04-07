@@ -4,7 +4,6 @@
 ### Introduction
 
 * Main File: colorGame.html
-* Built with Colt Steele's Web Dev Bootcamp
 * A ~~(soon-to-be web)~~ web application where users play a color guessing game 
 * Users are given a Color Combination of Red, Green Blue, (R, G, B) in that order to help them guess
 
